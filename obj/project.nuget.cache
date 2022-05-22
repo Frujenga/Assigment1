@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ybWsIeGf1JutvMJ8kc+c54lcZvIm36ZsgfSJOc2rekLgnMJKymOD5P93h04g40QWP8TiEI/dD+eXNueS+IXuRw==",
+  "success": true,
+  "projectFilePath": "D:\\F#\\Assigment1\\Assigment1.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\badar\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
